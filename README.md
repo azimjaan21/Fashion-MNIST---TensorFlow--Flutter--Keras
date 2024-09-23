@@ -61,3 +61,9 @@ Download APK to install directly on your Android device:
 Explore the code, download the app, and try out the Fashion MNIST Classifier on your phone! Feel free to contribute or leave feedback. 💡 Let’s build great AI-powered mobile apps together! ✨
 
 #MachineLearning #Flutter #DeepLearning #MobileApp #TensorFlow #APK #AI #App
+
+
+--------
+![image](https://github.com/user-attachments/assets/610623a2-4266-424a-9353-7426334fe18f)
+--------
+☘️LinkTree: https://linktr.ee/azimjaantech
